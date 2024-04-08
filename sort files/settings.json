@@ -1,0 +1,7 @@
+{
+    "image":[".png",".jpg"],
+    "videos":[".mp4"],
+    "music":[".mp3"],
+    "pack":[".zip"],
+    "documents":[".txt"]
+ }
