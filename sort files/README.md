@@ -1,6 +1,8 @@
 THIS SCRIPT, SORTING YOUR FILES :)
 
 Install:
-  pip3 install -r requirements.txt
+  pip3 install -r requirements.txt \n
+
+  
 Usage:
   python3 start.py
